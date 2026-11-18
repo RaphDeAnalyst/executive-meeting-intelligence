@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "skipLibCheck": true,
+    "rootDir": "./src",
+    "outDir": "./.test-dist",
+    "declaration": false,
+    "sourceMap": false
+  },
+  "include": [  "src/types.ts", "src/lib/meetingEngine.ts", "src/lib/executiveBrief.ts", "src/lib/followUpEmail.ts", "src/lib/workspaceMigration.ts"]
+}
