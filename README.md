@@ -2,6 +2,10 @@
 
 A local-first meeting management app for turning meeting notes into accountable follow-through: structured reports, an editable action register, a decision register, and follow-up email drafts.
 
+## Live demo
+
+The app is hosted on GitHub Pages: [Executive Meeting Intelligence](https://raphdeanalyst.github.io/executive-meeting-intelligence/).
+
 ## Run locally
 
 ```sh
